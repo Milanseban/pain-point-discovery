@@ -1,0 +1,14 @@
+# Secrets
+.env
+
+# Data and outputs (large, and contain other people's posts)
+raw_posts*.json
+progress*.json
+embedding_ids*.json
+embeddings*.npy
+clusters*.json
+report*.html
+
+# Python
+__pycache__/
+*.pyc
